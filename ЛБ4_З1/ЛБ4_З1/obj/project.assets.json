@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JawJag\\Documents\\GitHub\\LW4\\ЛБ4_З3_2\\ЛБ4_З3_2\\ЛБ4_З3_2.csproj",
-      "projectName": "ЛБ4_З3_2",
-      "projectPath": "C:\\Users\\JawJag\\Documents\\GitHub\\LW4\\ЛБ4_З3_2\\ЛБ4_З3_2\\ЛБ4_З3_2.csproj",
+      "projectUniqueName": "C:\\Users\\JawJag\\source\\repos\\OLD repos\\ЛБ4_З1\\ЛБ4_З1\\ЛБ4_З1.csproj",
+      "projectName": "ЛБ4_З1",
+      "projectPath": "C:\\Users\\JawJag\\source\\repos\\OLD repos\\ЛБ4_З1\\ЛБ4_З1\\ЛБ4_З1.csproj",
       "packagesPath": "C:\\Users\\JawJag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JawJag\\Documents\\GitHub\\LW4\\ЛБ4_З3_2\\ЛБ4_З3_2\\obj\\",
+      "outputPath": "C:\\Users\\JawJag\\source\\repos\\OLD repos\\ЛБ4_З1\\ЛБ4_З1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JawJag\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JawJag\\Documents\\GitHub\\LW4\\ЛБ4_З3_2\\ЛБ4_З3_2\\ЛБ4_З3_2.csproj": {}
+    "C:\\Users\\JawJag\\source\\repos\\OLD repos\\ЛБ4_З2\\ЛБ4_З2\\ЛБ4_З2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JawJag\\Documents\\GitHub\\LW4\\ЛБ4_З3_2\\ЛБ4_З3_2\\ЛБ4_З3_2.csproj": {
+    "C:\\Users\\JawJag\\source\\repos\\OLD repos\\ЛБ4_З2\\ЛБ4_З2\\ЛБ4_З2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JawJag\\Documents\\GitHub\\LW4\\ЛБ4_З3_2\\ЛБ4_З3_2\\ЛБ4_З3_2.csproj",
-        "projectName": "ЛБ4_З3_2",
-        "projectPath": "C:\\Users\\JawJag\\Documents\\GitHub\\LW4\\ЛБ4_З3_2\\ЛБ4_З3_2\\ЛБ4_З3_2.csproj",
+        "projectUniqueName": "C:\\Users\\JawJag\\source\\repos\\OLD repos\\ЛБ4_З2\\ЛБ4_З2\\ЛБ4_З2.csproj",
+        "projectName": "ЛБ4_З2",
+        "projectPath": "C:\\Users\\JawJag\\source\\repos\\OLD repos\\ЛБ4_З2\\ЛБ4_З2\\ЛБ4_З2.csproj",
         "packagesPath": "C:\\Users\\JawJag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JawJag\\Documents\\GitHub\\LW4\\ЛБ4_З3_2\\ЛБ4_З3_2\\obj\\",
+        "outputPath": "C:\\Users\\JawJag\\source\\repos\\OLD repos\\ЛБ4_З2\\ЛБ4_З2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JawJag\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\bin\Debug\netcoreapp3.1\ЛБ4_З1.exe
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\bin\Debug\netcoreapp3.1\ЛБ4_З1.deps.json
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\bin\Debug\netcoreapp3.1\ЛБ4_З1.runtimeconfig.json
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\bin\Debug\netcoreapp3.1\ЛБ4_З1.runtimeconfig.dev.json
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\bin\Debug\netcoreapp3.1\ЛБ4_З1.dll
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\bin\Debug\netcoreapp3.1\ЛБ4_З1.pdb
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\obj\Debug\netcoreapp3.1\ЛБ4_З1.csprojAssemblyReference.cache
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\obj\Debug\netcoreapp3.1\ЛБ4_З1.AssemblyInfoInputs.cache
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\obj\Debug\netcoreapp3.1\ЛБ4_З1.AssemblyInfo.cs
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\obj\Debug\netcoreapp3.1\ЛБ4_З1.csproj.CoreCompileInputs.cache
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\obj\Debug\netcoreapp3.1\ЛБ4_З1.dll
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\obj\Debug\netcoreapp3.1\ЛБ4_З1.pdb
+C:\Users\JJager\source\repos\ЛБ4_З1\ЛБ4_З1\obj\Debug\netcoreapp3.1\ЛБ4_З1.genruntimeconfig.cache
