@@ -1,0 +1,13 @@
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\bin\Debug\netcoreapp3.1\ЛБ4_З3_2.exe
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\bin\Debug\netcoreapp3.1\ЛБ4_З3_2.deps.json
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\bin\Debug\netcoreapp3.1\ЛБ4_З3_2.runtimeconfig.json
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\bin\Debug\netcoreapp3.1\ЛБ4_З3_2.runtimeconfig.dev.json
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\bin\Debug\netcoreapp3.1\ЛБ4_З3_2.dll
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\bin\Debug\netcoreapp3.1\ЛБ4_З3_2.pdb
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\obj\Debug\netcoreapp3.1\ЛБ4_З3_2.csprojAssemblyReference.cache
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\obj\Debug\netcoreapp3.1\ЛБ4_З3_2.AssemblyInfoInputs.cache
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\obj\Debug\netcoreapp3.1\ЛБ4_З3_2.AssemblyInfo.cs
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\obj\Debug\netcoreapp3.1\ЛБ4_З3_2.csproj.CoreCompileInputs.cache
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\obj\Debug\netcoreapp3.1\ЛБ4_З3_2.dll
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\obj\Debug\netcoreapp3.1\ЛБ4_З3_2.pdb
+C:\Users\vasut\source\repos\ЛБ4_З3_2\ЛБ4_З3_2\obj\Debug\netcoreapp3.1\ЛБ4_З3_2.genruntimeconfig.cache
